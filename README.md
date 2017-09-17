@@ -8,3 +8,10 @@ For example, Alice and Bob would create a single file `./alice_bob/members.txt` 
 alicegh:alice
 bobgh:bob
 ```
+
+Below are some common issues to avoid.
+* Do not delete project skeleton files (i.e., this README file).
+* Do not forget to create a team folder.
+* Make sure the usernames in the folder name are in ascending alphabetical order.
+* Use the correct file name.
+* Make sure there is no extra whitespace in the `members.txt` file.
